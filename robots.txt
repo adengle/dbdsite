@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adengle.github.io/dbdsite/sitemap.xml
